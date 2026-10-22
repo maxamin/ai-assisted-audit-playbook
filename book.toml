@@ -1,0 +1,7 @@
+[book]
+title = "AI-Assisted Smart Contract Audit Playbook"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/ai-assisted-audit-playbook"
